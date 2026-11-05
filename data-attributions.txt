@@ -1,0 +1,8 @@
+City data: GeoNames, https://www.geonames.org/
+Source: https://download.geonames.org/export/dump/cities15000.zip
+Licence: Creative Commons Attribution 4.0 International
+https://creativecommons.org/licenses/by/4.0/
+Modified subset bundled 5 November 2026: names, ASCII names, country codes, coordinates and population; filtered to the Cupivio country/territory directory. No warranty of completeness or accuracy.
+
+Country geometry: Natural Earth public-domain map units.
+Airport reference data: OurAirports public-domain data.
